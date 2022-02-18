@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot1.png)
+![Screenshot](./screenshot1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dabinderudhan/space-tourism-website)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/dabinderudhan/space-tourism-website)
+- Live Site URL: [Live site url](https://your-live-site-url.com)
 
 ## My process
 
@@ -70,10 +70,10 @@ async function loadData() {
 
 ### Useful resources
 
-- [Example resource 1](https://scrimba.com/learn/spacetravel) - This helped me to learn more about Frontend Web development.
+- [Srimba course](https://scrimba.com/learn/spacetravel) - This helped me to learn more about Frontend Web development.
 
 ## Author
 
-- Website - [Add your name here](https://github.com/dabinderudhan)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/home)
-- Twitter - [@yourusername](https://twitter.com/dabinderudhan)
+- Website - [Dabinder Udhan](https://github.com/dabinderudhan)
+- Frontend Mentor - [@dabinderudhan](https://www.frontendmentor.io/home)
+- Twitter - [@dabinderudhan](https://twitter.com/dabinderudhan)

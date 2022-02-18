@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot1.png)
+![Screenshot](./Screenshot1.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/dabinderudhan/space-tourism-website)
-- Live Site URL: [Live site url](https://your-live-site-url.com)
+- Live Site URL: [Live site url](https://dabinderudhan.github.io/space-tourism-website/)
 
 ## My process
 

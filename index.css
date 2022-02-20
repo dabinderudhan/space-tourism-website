@@ -344,7 +344,7 @@ select {
   list-style: none;
   padding: 0;
   margin: 0;
-  background: hsl(var(--clr-dark), 0.95);
+  background: hsla(223, 10%, 83%, 0.3);
   /* backdrop-filter: blur(1.5rem); */
 }
 
@@ -599,6 +599,23 @@ body {
 @media (min-width: 47rem) {
   .crew {
     background-image: url(./assets/destination/background-destination-desktop.jpg);
+  }
+}
+
+/* technology */
+.technology {
+  background-image: url(./assets/technology/background-technology-mobile.jpg);
+}
+
+@media (min-width: 35rem) {
+  .technology {
+    background-image: url(./assets/technology/background-technology-tablet.jpg);
+  }
+}
+
+@media (min-width: 47rem) {
+  .technology {
+    background-image: url(./assets/technology/background-technology-desktop.jpg);
   }
 }
 
